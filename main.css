@@ -1,1 +1,32 @@
-/* put custom styles in this file */
+img {
+	width: 200px;
+
+}
+
+div{
+	color: #669999;
+}
+
+body {
+	background-color: #801515;
+}
+
+#aCover {
+display: inline-block;
+}
+
+#songlist {
+	display: inline-block;
+}
+
+#artSong {
+	height: 220px;
+}
+
+.container {
+	background-color: #0d4d4d;
+}
+
+#results {
+	background-color: #0d4d4d;
+}
